@@ -1,0 +1,6 @@
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\AndroidIconName.exe.config
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\AndroidIconName.exe
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\AndroidIconName.pdb
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\obj\Debug\AndroidIconName.csprojResolveAssemblyReference.cache
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\obj\Debug\AndroidIconName.exe
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\obj\Debug\AndroidIconName.pdb

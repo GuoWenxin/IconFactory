@@ -1,0 +1,14 @@
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\IconFactory.exe.config
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\IconFactory.exe
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\bin\Debug\IconFactory.pdb
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\obj\Debug\IconFactory.exe
+E:\MyWorkSpace\vs2015\AndroidIconName\AndroidIconName\obj\Debug\IconFactory.pdb
+E:\MyWorkSpace\vs2015\IconFactory\AndroidIconName\bin\Debug\IconFactory.exe.config
+E:\MyWorkSpace\vs2015\IconFactory\AndroidIconName\obj\Debug\IconFactory.exe
+E:\MyWorkSpace\vs2015\IconFactory\AndroidIconName\obj\Debug\IconFactory.pdb
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\bin\Debug\IconFactory.exe.config
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\obj\Debug\IconFactory.exe
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\obj\Debug\IconFactory.pdb
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\bin\Debug\IconFactory.exe
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\bin\Debug\IconFactory.pdb
+E:\MyWorkSpace\vs2015\IconFactory\IconFactory\obj\Debug\IconFactory.csprojResolveAssemblyReference.cache
